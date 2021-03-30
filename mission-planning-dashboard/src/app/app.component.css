@@ -1,0 +1,7 @@
+.box {
+    display: flex;
+    padding: 20px;
+    margin: 40px 100px 0px  570px;
+    gap:50px
+    
+ }
